@@ -19,7 +19,26 @@
       "level": "",
       "dir": "Problems/level-order-in-a-generic-tree",
       "lastPushed": "2026-11-24T16:39:38.291Z"
+    },
+    "traversals-in-a-generic-tree": {
+      "title": "Traversals In A Generic Tree",
+      "slug": "traversals-in-a-generic-tree",
+      "url": "https://crafterhack.com/problems/traversals-in-a-generic-tree",
+      "firstSolved": "2026-11-24T16:53:44.136Z",
+      "solutions": {
+        "java": {
+          "language": "Java",
+          "file": "Solution.java",
+          "hash": "d331f8fd",
+          "pushedAt": "2026-11-24T16:53:44.136Z"
+        }
+      },
+      "difficulty": "",
+      "section": "",
+      "level": "",
+      "dir": "Problems/traversals-in-a-generic-tree",
+      "lastPushed": "2026-11-24T16:53:44.136Z"
     }
   },
-  "updated": "2026-11-24T16:39:38.291Z"
+  "updated": "2026-11-24T16:53:44.136Z"
 }
