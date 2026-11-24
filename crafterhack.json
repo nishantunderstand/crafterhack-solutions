@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "problems": {
+    "level-order-in-a-generic-tree": {
+      "title": "Level Order In A Generic Tree",
+      "slug": "level-order-in-a-generic-tree",
+      "url": "https://crafterhack.com/problems/level-order-in-a-generic-tree",
+      "firstSolved": "2026-11-24T16:39:38.291Z",
+      "solutions": {
+        "java": {
+          "language": "Java",
+          "file": "Solution.java",
+          "hash": "688005b8",
+          "pushedAt": "2026-11-24T16:39:38.291Z"
+        }
+      },
+      "difficulty": "",
+      "section": "",
+      "level": "",
+      "dir": "Problems/level-order-in-a-generic-tree",
+      "lastPushed": "2026-11-24T16:39:38.291Z"
+    }
+  },
+  "updated": "2026-11-24T16:39:38.291Z"
+}
